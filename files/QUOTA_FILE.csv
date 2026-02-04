@@ -1,3 +1,2 @@
 quotaCode;agentCode;contractNumber;carrier;flightNumber;origin;dest;aircraftType;weight;volume;pieces;uldType;productCode ;awbDest;fromDate;untilDate;weekday;awbOrigin;contact;remarksGen;releaseHours
-INAR;93085;20158429;FV;0;SVO;GDX;;2730;16,4;;;;;20251101;20251109;11;;;;24
-KARD-N;97501;20137925;FV;0;SVO;GDX;;2330;14;;;;;20251101;20251109;11;;;;24
+IRISHEHCKA;9876543;21211;SU;2874;LED;IKT;;111;11,55;;;101;;20251225;20260131;1234567;;;;361
